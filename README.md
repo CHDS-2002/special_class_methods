@@ -1,0 +1,2 @@
+# special_class_methods
+special_class_methods
